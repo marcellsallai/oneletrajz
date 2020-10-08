@@ -1,0 +1,14 @@
+html{
+    background-color:lightcoral;
+    
+}
+
+body {
+    background-color: lightblue;
+    width: 60%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 2px #888;
+    padding-top: 5px;
+    padding-bottom:20px;
+}
